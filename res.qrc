@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/images">
+        <file>antenna80x80.jpg</file>
+        <file>receiver80x60.png</file>
+    </qresource>
+</RCC>
